@@ -42,7 +42,7 @@ Para el apartado del server en Java se ha utilizado:
 ### Instalación
 
 1. Clonar el repositorio
-   git clone https://github.com/JonGallego97/reto2_chat_server.git
+   git clone https://github.com/PRSpidy/2-Dam-Reto-2-ElorChat-Server-Java.git
 2. Importar el proyecto en un IDE (Eclipse, IntelliJ, NetBeans, etc) como proyecto Maven.
 3. Configurar el archivo application.properties con los datos de la base de datos.
 
@@ -62,15 +62,8 @@ Para el apartado del server en Java se ha utilizado:
 
 
 ### Contacto
-- Gorka Gabiña - gorka.gabiname@elorrieta-errekamari.com
-- Jon Gallego - jon.gallegoaz@elorrieta-errekamari.com
-- Milena Cuellar - milena.cuellarpa@elorrieta-errekamari.com
-- Aimar Pelea - aimar.peleaar@elorrieta-errekamari.com
-
-## Licencia
-- Este proyecto está bajo la Licencia MIT
-
-
-
-
+- [Aimar Pelea](https://github.com/PRSpidy)
+- [Gorka Gabiña](https://github.com/Ceptorshock)
+- [Jon Gallego](https://github.com/JonGallego97)
+- [Milena Cuellar](https://github.com/Milena2301)
 
